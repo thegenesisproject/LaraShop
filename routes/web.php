@@ -14,3 +14,9 @@
 Route::get('/', function () {
     return view('welcome');
 });
+
+
+// Testing Bugsnag errors
+Route::get('/hello', function () {
+    return view('guide');
+});
