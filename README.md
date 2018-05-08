@@ -1,8 +1,10 @@
-# LaraShopX
-Make your Online Shop come alive with this solid RESTful API backend built with a solid framework, Laravel.
+# LaraShop
+Build your online shop with this solid RESTful API backend built on a solid framework, Laravel.
 
 ## RESTful API
-This code will help you build a **solid** and **scalable** RESTful API interface for your Online Shopping application. I repeat: This is simply the API structure...do not expect any blade views. The only UI you will interact with will be the JSON responses.
+This code will help you build a **solid** and **scalable** RESTful API interface for your online shopping app. 
+
+Use this project as your starting point when you want to build a strong backend server for your e-commerce store.
 
 ### API Endpoints
 
